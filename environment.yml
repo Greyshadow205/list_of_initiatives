@@ -4,7 +4,7 @@
   tags:
     - plastic
     - recyclables 
-  category: 
+  categories: 
     - venue
     - business
     - awerness
@@ -12,7 +12,8 @@
     Ecover is challenging you to rethink the value of your rubbish with our pop up Rubbish Café.
     The twist? Pay for your food and drink with a piece of recyclable plastic waste. Yes, you heard us right… drinks bottles, soup containers, anything plastic, bring it along.
     Dine on a delicious, zero-waste menu ....
-  country: UK
+  locations: 
+    - UK
   display: true
   
 
@@ -21,14 +22,15 @@
   url: Tappwater.co
   tags:
     - water
-  category: 
+  categories: 
     - website
     - awerness
   flash: 
     Tap water in London is among the best in the world in terms of quality. 
     Unfortunately, it doesn’t always taste great and therefore Londoners have been fooled in recent years to believe that it’s unhealthy. 
     The only known risks are lead from local pipes and microplastics. For anyone concerned about taste or these risks an affordable water filter such as TAPP can be a good option.
-  country: UK
+  locations: 
+    - UK
   display: true
 
 - 
@@ -38,11 +40,11 @@
     - law
     - activism
     - initiative
-  category: 
+  categories: 
     - initiative
     - community
   flash:
-  country:
+  locations:
   display: true
   media:
     - 
@@ -59,3 +61,39 @@
           title: Damien Short
           type: website
           url: https://theconversation.com/profiles/damien-short-120736
+
+- 
+  name: WRAP
+  url: http://www.wrap.org.uk/
+  tags:
+    - plastic
+    - circular-economy
+  categories:
+    - fundation
+  flash:
+  locations:
+    - UK 
+    - Wales
+  display: false
+  media:
+    - 
+      title: WRAP Resource Revolution - Creating the Future
+      type: pdf
+      url: http://www.wrap.org.uk/sites/files/wrap/WRAP-Plan-Resource-Revolution-Creating-the-Future.pdf
+  people: 
+    - 
+      first_name: Liz
+      last_name: Goodwin
+      scientific_title: Dr
+
+- 
+  name: 
+  url:
+  tags:
+  categories:
+  flash:
+  locations:
+  display: false
+  media:
+  people: 
+

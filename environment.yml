@@ -4,19 +4,58 @@
   tags:
     - plastic
     - recyclables 
-  short_description: 
+  category: 
+    - venue
+    - business
+    - awerness
+  flash: 
     Ecover is challenging you to rethink the value of your rubbish with our pop up Rubbish Café.
     The twist? Pay for your food and drink with a piece of recyclable plastic waste. Yes, you heard us right… drinks bottles, soup containers, anything plastic, bring it along.
     Dine on a delicious, zero-waste menu ....
   country: UK
+  display: true
+  
 
 - 
   name: Tappwater
   url: Tappwater.co
   tags:
     - water
-  short_description: 
+  category: 
+    - website
+    - awerness
+  flash: 
     Tap water in London is among the best in the world in terms of quality. 
     Unfortunately, it doesn’t always taste great and therefore Londoners have been fooled in recent years to believe that it’s unhealthy. 
     The only known risks are lead from local pipes and microplastics. For anyone concerned about taste or these risks an affordable water filter such as TAPP can be a good option.
   country: UK
+  display: true
+
+- 
+  name: Ecocide
+  url: https://www.endecocide.org/en/?lang=nl 
+  tags:
+    - law
+    - activism
+    - initiative
+  category: 
+    - initiative
+    - community
+  flash:
+  country:
+  display: true
+  media:
+    - 
+      title: A brief history of ecocide by Professor Damien Short from the End Ecocide conference 2014.
+      type: video
+      url: https://www.youtube.com/watch?v=nO2hzNZyFvA&feature=youtu.be
+  people: 
+    - 
+      first_name: Damien
+      last_name: Short 
+      scientific_title: Dr
+      media:
+        - 
+          title: Damien Short
+          type: website
+          url: https://theconversation.com/profiles/damien-short-120736
